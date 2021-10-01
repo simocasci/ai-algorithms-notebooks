@@ -1,4 +1,4 @@
-**Disclaimer**: the notebooks in this repo weren't meant to contain extensible or clean code, instead they  are a fast way of testing random algorithms I've read about in some papers (or similar).
+**Disclaimer**: the notebooks in this repo weren't meant to contain extensible or clean code; they  are a fast way of testing random algorithms I've read about in some papers (or similar).
 
 Here's a list of implemented algorithms:
 - **Counterfactual Regret Minimization (CFR)**: [link](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf)
