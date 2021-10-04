@@ -3,4 +3,5 @@
 Here's a list of implemented algorithms:
 - **Counterfactual Regret Minimization (CFR)**: [link](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf)
 - **Monte Carlo Control for the game Easy21**: [link](https://www.davidsilver.uk/wp-content/uploads/2020/03/Easy21-Johannes.pdf), assignment from the [Reinforcement Learning course](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) by David Silver
-- **World Models**: [link to the paper](https://arxiv.org/pdf/1803.10122.pdf), [link to the website](https://worldmodels.github.io) 
+- **World Models**: [link to the paper](https://arxiv.org/pdf/1803.10122.pdf), [link to the website](https://worldmodels.github.io)
+- **Neuroevolution for CartPole**: disorganized and simplified version of a neuroevolution algorithm for the CartPole environment
